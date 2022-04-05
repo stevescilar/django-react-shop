@@ -7,7 +7,7 @@ function App() {
       <Header />
       <main className="py-3">
         <Container>
-        <h1> Welcome Pro-shopper </h1>
+        <h4> Welcome </h4>
         </Container>
       </main>
       <Footer/>
