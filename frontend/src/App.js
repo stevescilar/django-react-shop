@@ -7,7 +7,6 @@ import HomeScreen from './screens/HomeScreen'
 function App() {
   return (
     <Router>
-        
           <Header />
           <main className="py-3">
             <Container>
@@ -16,7 +15,6 @@ function App() {
             </Routes>
             </Container>
           </main>
-       
       <Footer/>
     </Router>
   );
