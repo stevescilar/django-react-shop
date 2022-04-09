@@ -1,2 +1,3 @@
 # django-react-shop
-E-shop made with react and Django , Gearing up
+E-shop made with react and Django , Gearing up.
+Dynamic App
